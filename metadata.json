@@ -1,0 +1,5 @@
+{
+  "name": "Grosir Sembako LocalPOS",
+  "description": "A local-first Point of Sale system for wholesale and grocery stores designed for offline usage with IndexedDB storage.",
+  "requestFramePermissions": []
+}
